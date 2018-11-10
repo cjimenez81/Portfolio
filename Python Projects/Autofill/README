@@ -1,0 +1,4 @@
+# Autofill is a program that uses a recursive function to fill in empty spaces
+# on a text grid with a character defined by the user. The user will be prompted
+# for a file to fill in (four are provided), coordinates (row, column) to start at,
+# and the character they wish to fill in with.
