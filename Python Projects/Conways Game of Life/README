@@ -1,0 +1,7 @@
+# This program is an implementation of Conway's Game of Life. From Wikipedia:
+# "The game is a zero-player game, meaning that its evolution is determined
+# by its initial state, requiring no further input."
+#
+# The user defines the size of the game board, the number of turns, and which
+# cells to turn on to be the game's initial state. They have the option to 
+# view every iteration of the game board or only the first and last iterations.
