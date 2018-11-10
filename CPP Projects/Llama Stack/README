@@ -1,0 +1,7 @@
+# README
+# This folder contains the files for Llama Stack implementation. Llama Stack stands for
+# Linked List Array Mixed Amalgamation Stack. The purpose of this data structure is to
+# provide a dynamically sized stack for holding data. Each node of the linked list contains
+# an array segment of the stack. When he current node is full, a new node is allocated 
+# with the new 'top' array segment of the stack. The output.txt file contains the text
+# that is produced when the program is run on a Unix command line.
